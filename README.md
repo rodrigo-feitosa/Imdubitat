@@ -1,7 +1,7 @@
 ### Olá, meu nome é Rodrigo! 👋  
 Eu estou cursando técnologo em Análise e Desenvolvimento de Sistemas, com previsão de término em jun/2026
 
-[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Imdubitat&layout=compact&theme=radical&langs_count=6&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
+[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigo-feitosa&layout=compact&theme=radical&langs_count=6&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
